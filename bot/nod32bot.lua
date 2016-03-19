@@ -245,14 +245,14 @@ function create_config( )
     "time",
     "version"
     },
-	    sudo_users = {158990680},--Sudo users
+	    sudo_users = {108800687},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[
 https://github.com/BH-YAGHI/NOD32-BOT.git
 
-channel : @Nod32team
-sodu : @behrooZyaghi
+channel : @Bazarfree_rayegan
+sodu : @Hackertanha
 ]],
     help_text_realm = [[
 Realm Commands:
@@ -317,11 +317,11 @@ Only sudo users can run this command
 !bc 123456789 Hello !
 This command will send text to [group_id]
 
-ch: @Nod32team
+ch: @Bazarfree_rayegan
 
 ]],
     help_text = [[
-NOD32 Commands list :
+Gladiator Commands list :
  
 1-banhammer list ^
  
