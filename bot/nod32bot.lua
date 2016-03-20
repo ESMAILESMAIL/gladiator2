@@ -243,7 +243,8 @@ function create_config( )
     "filterworld",
     "server_manager",
     "time",
-    "version"
+    "version",
+    "auto-leave"
     },
 	    sudo_users = {108800687},--Sudo users
     disabled_channels = {},
