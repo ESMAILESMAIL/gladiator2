@@ -110,7 +110,7 @@ function pre_process_service_msg(msg)
 end
 
 -- Apply plugin.pre_process function
-function pre_process_msg(msg)
+function pre_proce���🎈🎈🎈ss_msg(msg)
   for name,plugin in pairs(plugins) do
     if plugin.pre_process and msg then
       print('Preprocess', name)
@@ -244,7 +244,8 @@ function create_config( )
     "server_manager",
     "time",
     "version",
-    "auto-leave"
+    "auto-leave",
+    "wiki"
     },
 	    sudo_users = {108800687},--Sudo users
     disabled_channels = {},
@@ -322,7 +323,7 @@ ch: @Bazarfree_rayegan
 
 ]],
     help_text = [[
-Gladiator Commands list :
+KOMANDO😊 Commands list :
  
 1-banhammer list ^
  
@@ -350,63 +351,63 @@ Gladiator Commands list :
 دریافت اطلاعات کلی گروه
 
 !stats
-امار کلی گروه
+امار کلی گروه🎈
 
 !modlist
-لیست مدیران گروه
+لیست مدیران گروه🎈
 
 !banlist
-لیست اعضا بن شده
+لیست اعضا بن شده🎈
 
 3-Rate Member ^
 
 !setowner [id]
-(id ایجاد مدیر جدید (همراه 
+(id ایجاد مدیر جدید (همراه 🎈
 
 !promote [username]
-(ایجاد ادمین جدید (همراه ریپلی)
+(ایجاد ادمین جدید (همراه ریپلی)🎈
 
 !demote [username]
-(برکنار کردن ادمین (همراه ریپلی)
+(برکنار کردن ادمین (همراه ریپلی)🎈
 
 4-General changes ^
 
 !setname [name]
-ایجاد اسم جدید برای گروه
+ایجاد اسم جدید برای گروه🎈
 
 !setphoto
-ایجاد عکس جدید برای پروفایل گروه
+ایجاد عکس جدید برای پروفایل گروه🎈
 
 !set rules <text>
-ایجاد قانون جدید برای گروه
+ایجاد قانون جدید برای گروه🎈
 
 !set about <text>
-ایجاد درباره گروه
+ایجاد درباره گروه🎈
 
 !setflood [value]
-حساسیت به اسپم در گروه
+حساسیت به اسپم در گروه🎈
 
 5-View details ^
 
 !about
-درباره گروه
+درباره گروه🎈
 
 !rules
-قوانین گروه
+قوانین گروه🎈
 
 !settings
-دیدن تنظیمات فعلی گروه
+دیدن تنظیمات فعلی گروه🎈
 
 !help
-لیست دستورات ربات
+لیست دستورات ربات🎈
 
 6-Security Group ^
 
 !lock member 
-قفل ورود اعضا جدید
+قفل ورود اعضا جدید🎈
 
 !lock join
-قفل ورود اعضا جدید توسط لینک
+قفل ورود اعضا جدید توسط لینک🎈
 
 !lock name
 قفل اسم گروه
