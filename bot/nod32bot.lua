@@ -110,7 +110,7 @@ function pre_process_service_msg(msg)
 end
 
 -- Apply plugin.pre_process function
-function pre_proce���🎈🎈🎈ss_msg(msg)
+function pre_procesg(msg)
   for name,plugin in pairs(plugins) do
     if plugin.pre_process and msg then
       print('Preprocess', name)
@@ -319,7 +319,7 @@ Only sudo users can run this command
 !bc 123456789 Hello !
 This command will send text to [group_id]
 
-ch: @Bazarfree_rayegan
+ch: 
 
 ]],
     help_text = [[
@@ -328,27 +328,27 @@ KOMANDO😊 Commands list :
 1-banhammer list ^
  
 !kick [username|id]
-(کیک کردن شخص (حتی با ریپلی)
+(کیک کردن شخص (حتی با ریپلی)🎈
 
 !ban [ username|id]
-(بن کردن افراد (حتی با ریپلی)
+(بن کردن افراد (حتی با ریپلی)🎈
 
 !unban [id]
-(انبن کردن افراد (همراه ایدی)
+(انبن کردن افراد (همراه ایدی)🎈
 
 !kickinactive
-حذف اعضای غیرغعال گروه
+حذف اعضای غیرغعال گروه🎈
 
 !kickme
-خروج از گروه
+خروج از گروه🎈
 
 2-Statistics list ^
 
 !who
-لیست+ایدی همه اعضا
+لیست+ایدی همه اعضا🎈
 
 !all
-دریافت اطلاعات کلی گروه
+دریافت اطلاعات کلی گروه🎈
 
 !stats
 امار کلی گروه🎈
@@ -410,117 +410,117 @@ KOMANDO😊 Commands list :
 قفل ورود اعضا جدید توسط لینک🎈
 
 !lock name
-قفل اسم گروه
+قفل اسم گروه🎈
 
 !lock chat
-قفل چت ممنوع
+قفل چت ممنوع🎈
 
 !lock ads
-قفل تبلیغات
+قفل تبلیغات🎈
 
 !lock leave
-قفل خروج=بن گروه
+قفل خروج=بن گروه🎈
 
 !lock fosh
-ممنوع کردن فحش
+ممنوع کردن فحش🎈
 
 !lock chat
-قفل چت ممنوع گروه
+قفل چت ممنوع گروه🎈
 
 !antibot enable 
-ورود ربات ها ممنوع
+ورود ربات ها ممنوع🎈
 
 !antibot disable
-ورود ربات ها ازاد
+ورود ربات ها ازاد🎈
 
 !unlock xxxx
 [*name*leave*member]
 [*fosh*ads]
 [chat*join*photo]
-باز کردن دستورات قفل شده
+باز کردن دستورات قفل شده🎈
 
 7-Fun time ^
 
-!time country city
-ساعت کشور مورد نظر
+!time نام شهر مورد نظر
+ساعت کشور مورد نظر🎈
 
 !loc country city
-مشخصات کشور و شهر مورد نظر
+مشخصات کشور و شهر مورد نظر🎈
 
 !google
-سرچ مطلب مورد نظر از گوگل
+سرچ مطلب مورد نظر از گوگل🎈
  
  !gps
- مکان کشور , شهر مورد نظر تحت گوگل
+ مکان کشور , شهر مورد نظر تحت گوگل🎈
  
  !calc 3+1
- انجام محاسبات ریاضی
+ انجام محاسبات ریاض🎈
 
 8-Service Provider ^
 
 !newlink
-ایجاد لینک جدید
+ایجاد لینک جدید🎈
 
 !link
-نمایش لینک گروه
+نمایش لینک گروه🎈
 
 !linkpv
 فرستادن لینک گروه تو پیوی
-(حتما شماره ربات را سیو کنید)
+(حتما شماره ربات را سیو کنید)🎈
 
 !invite username
 اضافه کردن شخص تو گروه
-(حتما شماره ربات را سیو کرده باشد)
+(حتما شماره ربات را سیو کرده باشد)🎈
 
 9-Member Profile and Group ^
 !owner
-مدیر گروه
+مدیر گروه🎈
 
 !id
-ایدی شخص مورد نظر
+ایدی شخص مورد نظر🎈
 
 !res [username]
-در اوردن ایدی شخص مورد نظر
+در اوردن ایدی شخص مورد نظر🎈
 
 !info 
-مخشصات فرد مورد نظر
+مخشصات فرد مورد نظر🎈
 
 !settings
-تنظیمات فعلی گروه
+تنظیمات فعلی گروه🎈
 
 10-filter word Mode ^
 
 !filter set (word)
-اضافه کردن کلمه جدید به لیست
+اضافه کردن کلمه جدید به لیست🎈
 
 !filter del (word)
-حذف کلمه از لیست
+حذف کلمه از لیست🎈
 
 !filter warn (word)
-اخطار به کلمه فیتر شده
+اخطار به کلمه فیتر شده🎈
 
 !filterlist
-لیست کلمات فیلتر شده
+لیست کلمات فیلتر شده🎈
 
 11-bot number & support ^
 
 !botnumber
-دریافت شماره ربات
+دریافت شماره ربات🎈
 
 !support
 دعوت سازنده ربات به گروه
-(در صورت وجود مشکل)
+(در صورت وجود مشکل)🎈
 
 !version
-ورژن ربات
+ورژن ربات🎈
 
 !feedback (text)
-ارسال نظرات به سازنده
+ارسال نظرات به سازنده🎈
 
 you can use both "/" and "!" 
-.شما میتوانید از ! و / استفاده کنید
+.شما میتوانید از ! و / استفاده کنید🎈
 
-channel: @Nod32Team
+channel: 
 
 G00D LUCK ^_^
 ]]
